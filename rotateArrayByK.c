@@ -26,6 +26,6 @@ void display(int v[],int n){
 int main(){
     int d[]={3,7,4,2};
     int n=4;
-    rotate(d,n,3);
+    rotate(d,n,2);
     display(d,n);
 }
